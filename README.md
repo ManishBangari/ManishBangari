@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My Github Stats
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBangari&show_icons=true&theme=default)
+
+
+
+
 <!--
 **ManishBangari/ManishBangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
