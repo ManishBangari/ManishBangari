@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋,I'm Manish Singh Bangari.
 
-My Github Stats
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBangari&show_icons=true&theme=default)
 
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBangari&show_icons=true&theme=flag-india)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBangari&layout=compact)](https://github.com/ManishBangari/)
 
 
 
