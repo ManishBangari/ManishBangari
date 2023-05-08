@@ -1,5 +1,23 @@
 ### Hi there 👋,I'm Manish Singh Bangari.
 
+## 🚀 About Me
+I'm a Software Programmer and ML enthusiast.
+I love exploring different technologies and use them to solve real-world problems.
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Time Series to apply machine learning to real-world forecasting tasks. 
+
+🧠 I'm currently learning Computer Vision and JavaScript.
+
+👯‍♀️ I'm looking to collaborate on wonderful projects on Machine Learning.
+
+📫 How to reach me - manishbangari2108@gmail.com
+
+😄 Pronouns - He/Him
+
+⚡️ Fun fact - I love stargazing
+
 
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManishBangari&show_icons=true&theme=flag-india)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManishBangari&layout=compact)](https://github.com/ManishBangari/)
@@ -27,17 +45,5 @@
            
 </p>
 
-<!--
-**ManishBangari/ManishBangari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-singh-bangari-716622208/) 
