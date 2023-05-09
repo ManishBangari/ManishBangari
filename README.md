@@ -5,14 +5,15 @@ I'm a Software Programmer and ML enthusiast.
 I love exploring different technologies and use them to solve real-world problems.
 
 
-## Other Common Github Profile Sections
+## ![image](https://github.com/ManishBangari/ManishBangari/assets/96987073/acea15ca-fcca-4df7-822d-195b1f9d163c)
+
 👩‍💻 I'm currently working on Time Series to apply machine learning to real-world forecasting tasks. 
 
 🧠 I'm currently learning Computer Vision and JavaScript.
 
 👯‍♀️ I'm looking to collaborate on wonderful projects on Machine Learning.
 
-📫 How to reach me - manishbangari2108@gmail.com
+[//]: # (📫 How to reach me - manishbangari2108@gmail.com)
 
 😄 Pronouns - He/Him
 
@@ -24,8 +25,6 @@ I love exploring different technologies and use them to solve real-world problem
 
 <h2> &nbsp;Some Tools I Use and Learned</h2>
 <p align="justify">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
           
